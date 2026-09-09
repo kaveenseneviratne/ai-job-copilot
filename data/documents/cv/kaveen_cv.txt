@@ -1,0 +1,49 @@
+KAVEEN SENEVIRATNE
+Berlin, Germany | +49 15731014337 | kaveenseneviratne.work@gmail.com | LinkedIn | GitHub
+Eligible to work in Germany - student visa with 18-month post-study work permit eligibility upon graduation | English: Fluent | German: A2-B1
+
+PROFILE
+AI/ML professional completing an M.Sc. in Computer Science (Big Data & AI) in Berlin, with a thesis on detecting hallucination in vision-language models using explainable AI. Combines hands-on research and deep learning experience with prior work owning data infrastructure and driving measurable growth outcomes. Seeking Machine Learning Engineer, Data Scientist, or Applied AI/Data Engineer positions in Berlin.
+
+SKILLS
+Programming & ML: Python, SQL, C, C++ - PyTorch, TensorFlow, LangChain, HuggingFace, OpenCV
+AI Specialisations: Deep Learning, Computer Vision, NLP, LLMs, Explainable AI (XAI), Vector Databases
+Data, Cloud & Tools: PostgreSQL, ChromaDB, AWS (EC2, S3), GCP, Azure, Power BI, Tableau, Git, n8n
+
+WORK EXPERIENCE
+Student AI Research Assistant - SRH Hochschule Berlin, Berlin, Germany [02/2026 - 06/2026]
+- Authored six technical learning-material documents for the Big Data & AI curriculum under Prof. Dr. Alexander Iliev (Program Director), spanning classical ML through deep learning, each pairing rigorous theory with fully tested Python implementations (NumPy, scikit-learn, PyTorch, Streamlit).
+- Built production-style code for each topic, including a from-scratch K-Means clustering library with an interactive Streamlit app and a PyTorch LSTM/GRU training pipeline.
+- Supported literature review for other students' Master's theses, delivering all work independently across a 19-week placement with a full expert review cycle.
+
+Growth Marketing Analyst - Customore, Ho Chi Minh City, Vietnam [08/2022 - 09/2023]
+- Led migration of the team's marketing and campaign data from Google Sheets to a PostgreSQL database, improving data reliability and analysis speed.
+- Quadrupled Monthly Recurring Revenue (MRR) year-on-year and managed a team of 6 interns.
+- Planned and ran multi-channel marketing campaigns for FMCG clients (Nestle, Colgate-Palmolive) across Malaysia and Singapore, using forecast models built on historical performance.
+
+Product Conception Engineer (Intern) - Vulcan Augmetics, Ho Chi Minh City, Vietnam [10/2021 - 01/2022]
+- Designed and assembled an assistive module supporting amputees with precision tasks, from SolidWorks design through 3D-printed prototyping and real-world user testing.
+
+AI/ML PROJECTS
+Master's Thesis - Explanation-Hallucination Gap in Vision-Language Models - SRH Hochschule Berlin, 2026
+- Investigated whether post-hoc XAI attribution maps carry a detectable signal of object hallucination in LLaVA-1.5-7B, evaluated across the full 9,000-sample POPE benchmark.
+- Engineered 12 explanation-derived features and trained a classifier predicting hallucination at 0.925 AUROC, showing the signal lives in the joint structure of explanations rather than any single feature.
+
+GenAI Cold Email Generator for Recruiters - Portfolio project
+- Built an AI-powered cold-email generation system (LangChain, Llama 3.3 70B via Groq API) with a Streamlit app and ChromaDB semantic retrieval for personalised recruiter outreach.
+
+Comparative Analysis of Phishing Email Detection - Portfolio project
+- Evaluated 3 ML architectures on 10,000+ labelled emails; SVM achieved 99% precision/recall/F1, outperforming transformer-hybrid (96%) and zero-shot LLMs (49-77%).
+
+Berlin House Price Prediction Model - Portfolio project
+- Personal ML project predicting Berlin house prices, hosted on GitHub (berlin-house-pricing-prediction repo).
+
+Spotify Listening Analytics Dashboard - Portfolio project
+- Personal locally-hosted analytics system modeled after Spotify Wrapped, with richer metrics than the official version.
+- Stack: Python, Spotipy (Spotify API), Last.fm scrobbling API, SQLite, Streamlit with Plotly.
+- Handles incremental data capture, GDPR historical export parsing, genre enrichment, and a week/all-time dashboard toggle.
+
+EDUCATION
+M.Sc. Computer Science - Big Data & Artificial Intelligence 10/2024 - present
+Grade: 1.9 (German scale, 1.0 = highest) - Thesis: "When Models Explain Lies: Probing the Explanation-Hallucination Gap in Vision-Language Models"
+B.Eng. Robotics and Mechatronics (Honours) 10/2017 - 01/2022

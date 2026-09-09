@@ -1,0 +1,33 @@
+Company: DKSR - Data Competence Center for Cities & Regions
+Role: Data Engineer
+Location: Germany
+Visa note: Only considering candidates already legally authorized to work in Germany. No visa sponsorship or relocation support.
+
+About: DKSR builds an urban data hub for cities and regions (product: CIVORA), operating for 20+ cities and regions.
+
+Responsibilities:
+- Contribute to the data infrastructure powering CIVORA, from platform components to internal tooling
+- Design and maintain data pipelines (batch and streaming) serving multiple cities and use cases
+- Collaborate with product and project delivery teams on scalable, well-documented data infrastructure
+- Support the most complex and mission-critical use cases
+- Write clean, maintainable, testable code
+- Propose and prototype new approaches
+
+Must-have requirements:
+- 1-3 years of relevant experience in data engineering and software development
+- B.Sc. in Computer Science, Data Science, Data Engineering or related field (M.Sc. preferred, or equivalent professional experience)
+- Python: pandas, NumPy, scikit-learn, plus structured software development (modular design, clean APIs, testable code)
+- SQL: relational database design and confident querying
+- Pipeline orchestration: hands-on Apache Airflow or similar
+- Streaming systems: familiarity with Kafka protocol or similar
+- Docker: containerization as part of daily workflow
+- Cloud and infrastructure-as-code: working knowledge of cloud concepts, Helm, Terraform
+- Fluent English
+- Experience with agentic development tools (GitHub Copilot, Claude, etc.)
+
+Nice-to-have:
+- Kubernetes / container orchestration
+- AWS, Azure, or GCP hands-on experience
+- Java, JavaScript, Rust, or Go alongside Python
+- Familiarity with Apache Superset, Apache Iceberg, Redpanda, Trino, MLFlow
+- German language ability

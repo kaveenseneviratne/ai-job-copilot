@@ -1,0 +1,16 @@
+# Phase 1: ingestion
+chromadb>=0.5
+sentence-transformers>=3.0
+pypdf>=4.0
+python-dotenv>=1.0
+
+# Phase 2: retrieval-augmented Q&A
+langchain-core>=0.3
+langchain-groq>=0.2
+
+# Phase 3+: agent, API, frontend (installed as we build those phases)
+# langgraph>=0.2
+# fastapi>=0.115
+# uvicorn>=0.30
+# streamlit>=1.38
+# ragas>=0.2
