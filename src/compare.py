@@ -26,14 +26,21 @@ Classify as:
 direct, confident match
 - "gap": the profile shows no meaningful evidence of this requirement
 
+Special rule for education/qualification requirements: if the \
+requirement asks for a degree level (e.g. "B.Sc.") and the profile \
+shows an EQUAL OR HIGHER degree in the same or a related field (e.g. \
+an M.Sc.), treat this as a "match", not a gap -- a higher qualification \
+satisfies a lower stated requirement unless the posting specifies the \
+lower degree is preferred over the higher one.
+
 Respond with ONLY valid JSON, no markdown fences, no commentary, in \
 exactly this shape:
 {"verdict": "match", "evidence": "one or two sentence justification, \
 quoting or closely paraphrasing the relevant profile excerpt"}
 
-Do not be generous -- if the excerpts don't clearly support the \
-requirement, say so as "gap" rather than inferring a match from \
-loosely related experience.
+Do not be generous outside the rule above -- if the excerpts don't \
+clearly support the requirement, say so as "gap" rather than inferring \
+a match from loosely related experience.
 """
 
 
